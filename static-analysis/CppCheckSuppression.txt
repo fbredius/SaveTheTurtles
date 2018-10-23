@@ -1,0 +1,10 @@
+*:../game/CMakeLists.txt
+*:../game/src/CMakeLists.txt
+*:../game/testing/CMakeLists.txt
+noCopyConstructor:../game/src/control/GameManager.h
+noCopyConstructor:../game/src/gameEntities/Player.h
+unsafeClassCanLeak:../game/src/control/GameManager.h
+unsafeClassCanLeak:../game/src/control/gameStates/GameIdleState.h
+unusedPrivateFunction:../game/src/control/gameStates/GameFinishedState.h
+unusedPrivateFunction:../game/src/control/gameStates/GameRunningState.h
+unusedPrivateFunction:../game/src/control/gameStates/GameStartState.h

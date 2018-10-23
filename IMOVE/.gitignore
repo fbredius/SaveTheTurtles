@@ -1,0 +1,8 @@
+/opencv
+/build
+/dist
+
+.DS_Store
+.idea/
+
+__init__.py
