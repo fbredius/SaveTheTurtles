@@ -2,11 +2,13 @@
 A collaborative and movement-based game, developed using the IMOVE framework.
 
 # Group: CG1
-- Raoul Bruens - 4571010
-- Tim Huisman - 4591305
-- Mariette Schonfeld - 4474147
-- Thijmen Langendam - 4592646
-- Maxim Liefaard - 4607171
+- Raoul Bruens
+- Tim Huisman
+- Mariette Schönfeld
+- Thijmen Langendam
+- Maxim Liefaard
+
+Students, at the Delft University of Technology
 
 # Deployment Guide
 
